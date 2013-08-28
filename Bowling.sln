@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling", "Bowling\Bowling.csproj", "{BE4AD401-393D-4F55-B9AB-429C17A518F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroMvvm", "MicroMvvm\MicroMvvm.csproj", "{9EFE6CBD-DF21-436E-9F81-E258BAB0B653}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingUnitTest", "BowlingUnitTest\BowlingUnitTest.csproj", "{3B883D19-3A9B-4F13-B2A9-288E1E1E11B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE4AD401-393D-4F55-B9AB-429C17A518F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE4AD401-393D-4F55-B9AB-429C17A518F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE4AD401-393D-4F55-B9AB-429C17A518F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE4AD401-393D-4F55-B9AB-429C17A518F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFE6CBD-DF21-436E-9F81-E258BAB0B653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFE6CBD-DF21-436E-9F81-E258BAB0B653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFE6CBD-DF21-436E-9F81-E258BAB0B653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFE6CBD-DF21-436E-9F81-E258BAB0B653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B883D19-3A9B-4F13-B2A9-288E1E1E11B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B883D19-3A9B-4F13-B2A9-288E1E1E11B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B883D19-3A9B-4F13-B2A9-288E1E1E11B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B883D19-3A9B-4F13-B2A9-288E1E1E11B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
